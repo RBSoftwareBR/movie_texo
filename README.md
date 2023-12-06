@@ -11,10 +11,6 @@ Este projeto é uma aplicação Flutter que fornece informações sobre os Golde
 - Informações sobre produtores com os maiores e menores intervalos entre vitórias.
 - Anos que tiveram mais de um filme vencedor.
 
-# Golden Raspberry Awards
-
-Aplicação Flutter para exibir informações sobre os Golden Raspberry Awards.
-
 ## Relatório de Cobertura
 
 O relatório de cobertura do código pode ser encontrado aqui: [Coverage Report](https://golden-raspberry-awards.web.app/coverage/)
