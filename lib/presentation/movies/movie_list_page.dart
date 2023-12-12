@@ -51,14 +51,16 @@ class _MovieListPageState extends State<MovieListPage> {
       width: contentWidth(context),
       child: Padding(
           padding: const EdgeInsets.all(16.0),
-          child: Column(
-            children: [
-              _buildFilterControls(),
-              SizedBox(
-                  height: MediaQuery.of(context).size.height - 350,
-                  child: _buildMoviesTable()),
-              _buildPaginationControls(),
-            ],
+          child: SingleChildScrollView(
+            child: Column(mainAxisAlignment: MainAxisAlignment.start,
+              children: [
+                _buildFilterControls(),
+                SizedBox(
+                    height: MediaQuery.of(context).size.height - 350,
+                    child: _buildMoviesTable()),
+                _buildPaginationControls(),
+              ],
+            ),
           )),
     );
   }
