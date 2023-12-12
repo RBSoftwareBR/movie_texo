@@ -21,7 +21,7 @@ Uma versão web para testes está disponível em: [Golden Raspberry Awards Web A
 
 ## Versão Android para Testes
 
-Uma versão web para testes está disponível em: [app-release.apk](https://github.com/RBSoftwareBR/movie_texo/releases/download/1.0.0/app-release.apk)
+Uma versão web para testes está disponível em: [app-release.apk](https://github.com/RBSoftwareBR/movie_texo/releases/download/1.0.1/app-release.apk)
 
 ## Imagens das Telas (Golden Images)
 
